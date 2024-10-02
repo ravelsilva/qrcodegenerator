@@ -56,5 +56,3 @@ This project is licensed under the [MIT License](LICENSE).
    ```
 
 2. **Open the Project**: Navigate to the project folder and open `index.html` in your browser.
-
-This basic README provides an overview of your project and instructions for users. Feel free to add more details if necessary!
